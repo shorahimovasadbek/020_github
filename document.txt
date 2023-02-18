@@ -8,3 +8,7 @@
 8. git status => hozirgi jarayonni ko'rsatadi
 9. git add (file name) => bu yani yaratilgan fileni git ga qo'shib beradi.
 10. git add . => barchasini qo'shib qo'yadi.
+11. git commit -m "commit" 
+12. git diff => barcha o'zgarishlarni ko'rish
+13. git log => vaqtigacha ko'rsatadi.
+14. mkdir (file name)
