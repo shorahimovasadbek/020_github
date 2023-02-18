@@ -21,3 +21,8 @@
 21. git pull (path) => bu repositorydagini olib kelib beradi (o'zgarishni)
 22. Asadbek
  
+
+ git status
+ git add .
+ git commit -m 'jkdfklshjksl'
+ git push -u origin master
