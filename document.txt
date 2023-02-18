@@ -15,5 +15,9 @@
 15. rmdir (folder name) => folder o'chirish
 16. cat > (file name) => file yaratish
 17. rm (file name) => file o'chirish
+18. git remote add origin https://github.com/shorahimovasadbek/020_github.git => push qilish joyini ko'rsatish
+19. git push -u origin master => master branchiga qo'shish 
+20. git clone https://github.com/shorahimovasadbek/020_github.git => repositorydan olib kelish projectni
+
 
  
