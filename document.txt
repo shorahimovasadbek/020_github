@@ -20,4 +20,13 @@
 20. git clone https://github.com/shorahimovasadbek/020_github.git => repositorydan olib kelish projectni
 21. git pull (path) => bu repositorydagini olib kelib beradi (o'zgarishni)
 22. Asadbek
+<<<<<<< HEAD
  23. To'lqinbek
+=======
+ 
+
+ git status
+ git add .
+ git commit -m 'jkdfklshjksl'
+ git push -u origin master
+>>>>>>> 70e5fb465012d3c2bfae53e436823f43fe7de99a
