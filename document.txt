@@ -11,4 +11,9 @@
 11. git commit -m "commit" 
 12. git diff => barcha o'zgarishlarni ko'rish
 13. git log => vaqtigacha ko'rsatadi.
-14. mkdir (file name)
+14. mkdir (folder name) => folder yaratish
+15. rmdir (folder name) => folder o'chirish
+16. cat > (file name) => file yaratish
+17. rm (file name) => file o'chirish
+
+ 
