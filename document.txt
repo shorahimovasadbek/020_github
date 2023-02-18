@@ -1,0 +1,10 @@
+1. Win+R => Run buyruq (cmd) enter buyrug'i yoziladi
+2. git versiyasini ko'rish => git --version
+3. gitda o'zini tanishtirish yoki yanig user yaratish => git config --global user.name "username"
+4. gitda o'zini tanishtirish yoki yanig user yaratish email => git config --global user.email "useremail"
+5. gitni ishga tushurish => git init
+6. ls => biz turgan papkadagi filelar va folderlarni ko'rsatadi
+7. ls -all => biz turgan papkadagi filelar va folderlarni hammasini ko'rsatadi.
+8. git status => hozirgi jarayonni ko'rsatadi
+9. git add (file name) => bu yani yaratilgan fileni git ga qo'shib beradi.
+10. git add . => barchasini qo'shib qo'yadi.
